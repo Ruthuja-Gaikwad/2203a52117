@@ -1,3 +1,0 @@
-# Ruthuja
-# 2203a52117
-# CSE AIML-AA
